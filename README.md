@@ -1,2 +1,2 @@
-# DIO-count_javaScript_Stephany-Nusch
+# DIO-count_javaScript
 Contador em javaScript com eventListenen
